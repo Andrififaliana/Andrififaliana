@@ -150,7 +150,7 @@ Déploiement d'applications avec **Docker**, GitLab CI/CD et AWS
 <img src="https://img.shields.io/badge/Gmail-F43F5E?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://andrififaliana-portfolio.onrender.com/">
+<a href="https://simon-pierre.vercel.app/">
 <img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
